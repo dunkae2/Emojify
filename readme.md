@@ -5,7 +5,7 @@ This project implements "Emojify" with Pytorch.
 - Input: Sentences 
 - Output: Emoji (cast as numerical labels)🤔
 
-For example:
+Example:
 Food is life 🍴
 
 ## Acknowledgement
@@ -14,7 +14,6 @@ Some ideas and the structure of the neural network come from [Coursera Deep Lear
 The dataset can be download from [here](https://drive.google.com/drive/folders/1vXgzjhALvH981cNYZwlQ1wZJ_NE_Xd44?usp=sharing).
 
 Preview dataset:
-- never talk to me again 😞
 - I am proud of your achievements 😄
 - It is the worst day in my life 😞
 - Miss you so much ❤️
@@ -36,7 +35,5 @@ Usage: `python emoji_script.py`
 
 ## Result
 Training accuracy: 100%
+
 Test accuracy: 91.07%
-
-
-<img src="example.png" alt="drawing" width="600"/>
